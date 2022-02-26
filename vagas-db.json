@@ -1,0 +1,32 @@
+{
+  "vagas": [
+    {
+      "id": 123,
+      "nome": "Desenvolver Front End Jr",
+      "foto": "foto1.jpg",
+      "descricao": "Experiência em HTML5 e CSS3",
+      "salario": 5000
+    },
+    {
+      "id": 231,
+      "nome": "Desenvolver BackEnd Senior",
+      "foto": "foto2.jpg",
+      "descricao": "Experiência em Spring Boot e banco de dados MYSQL",
+      "salario": 9700
+    },
+    {
+      "id": 312,
+      "nome": "Desenvolver Fullstack Pleno",
+      "foto": "foto3.jpg",
+      "descricao": "Experiência em Angular e Spring e banco de dados MYSQL",
+      "salario": 10000
+    },
+    {
+      "id": 432,
+      "nome": "Desenvolver Front End Junior",
+      "foto": "foto3.jpg",
+      "descricao": "Experiência em Angular e Spring",
+      "salario": 4800
+    }
+  ]
+}
